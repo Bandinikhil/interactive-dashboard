@@ -1,3 +1,65 @@
+# Project Title: Product Analytics Dashboard
+
+## Overview
+This project involves the development of a front-end application for a product analytics platform. The platform provides real-time data on sales, user engagement, and more, with a focus on interactive data visualization, advanced filtering options, efficient cookie management, responsiveness, user authentication, and URL sharing.
+
+## Data Source
+The dataset used for this project can be found [here](https://docs.google.com/spreadsheets/d/1l7GstWHc69HPV0irSdvoMIyHgtufUPKsbtCiNw7IKR0).
+
+## Features
+
+### Interactive Data Visualization
+1. **Bar Chart:**
+   - Represents features A, B, C, etc.
+   - X-axis represents the total time spent within the selected date range.
+
+2. **Line Chart:**
+   - Displays the time trend of a specific category upon clicking on the bar chart.
+   - Supports pan, zoom-in, and zoom-out options for the time range.
+
+### Advanced Filtering
+1. **Age Filter:**
+   - Options: 15-25, >25.
+
+2. **Gender Filter:**
+   - Options: Male, Female.
+
+3. **Date Range Selector:**
+   - Allows users to choose a specific time range for analytics data.
+   - Updates the graph based on the selected time range and filters.
+
+### Cookie Management
+   - Stores user preferences for filters and date range.
+   - Retrieves previous settings from cookies on revisiting the page.
+   - Provides an option for users to reset or clear their preferences.
+
+### Responsiveness
+   - Ensures seamless functionality on desktops, tablets, and mobiles.
+
+### User Authentication
+   - Basic user login interface.
+   - Users can sign up, log in, and log out.
+
+### URL Sharing
+   - Users can share a chart created with date range and filters via URL.
+   - Second users must log in to view the chart due to confidential data.
+
+## API Integration and Data Pipeline
+   - An API integration layer and data pipeline are implemented to fetch and process data from the provided dataset.
+
+## Getting Started
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/product-analytics-dashboard.git
+   cd product-analytics-dashboard
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
