@@ -1,10 +1,26 @@
 # Project Title: Product Analytics Dashboard
 
+## Deployed Link(https://interactive-dashboards.netlify.app/)
+
 ## Overview
 This project involves the development of a front-end application for a product analytics platform. The platform provides real-time data on sales, user engagement, and more, with a focus on interactive data visualization, advanced filtering options, efficient cookie management, responsiveness, user authentication, and URL sharing.
 
 ## Data Source
 The dataset used for this project can be found [here](https://docs.google.com/spreadsheets/d/1l7GstWHc69HPV0irSdvoMIyHgtufUPKsbtCiNw7IKR0).
+
+## Screenshots
+
+![Screenshot (153)](https://github.com/Bandinikhil/interactive-dashboard/assets/105233916/33aaf3ca-33f2-402e-9830-84870eddbab8)
+
+
+![Screenshot (154)](https://github.com/Bandinikhil/interactive-dashboard/assets/105233916/178089d5-1707-4ffe-acf1-71af7a47c774)
+
+
+
+![Screenshot (155)](https://github.com/Bandinikhil/interactive-dashboard/assets/105233916/cd5f3a4e-9860-45c8-b290-59043bbb28e2)
+
+
+![Screenshot (156)](https://github.com/Bandinikhil/interactive-dashboard/assets/105233916/03e083af-bc18-4466-b83d-a06bab075e57)
 
 ## Features
 
